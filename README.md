@@ -1,6 +1,6 @@
 # OIBSIP
 
-JAVA DEVELOPER internship in Oasis Internship
+JAVA DEVELOPER internship in Oasis Infobyte
 
 List of tasks:
   1. Online Reservation System
