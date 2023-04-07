@@ -19,15 +19,25 @@ public class Index {
         
             int choosed = sc.nextInt();
             if (choosed == 1){
-
+    
+                //Transaction History
+                
             }else if (choosed == 2){
 
+                //Withdraw
+                
             }else if (choosed == 3) {
             
+                //Deposit
+                
             }else if (choosed == 4) {
             
+                //Transfer
+                
+            }else if (choosed == 5) {
+                quite=true;
             } else {
-            
+                System.out.println("Please enter correct choise between 1-5");
             }
         }
     }
