@@ -17,10 +17,10 @@ public class Index {
             while (!quite) {
 
                 System.out.println("Select :");
-                System.out.println("1. Transaction History");
-                System.out.println("2. Withdraw");
-                System.out.println("3. Deposit");
-                System.out.println("4. Transfer");
+                System.out.println("1. Withdraw");
+                System.out.println("2. Deposit");
+                System.out.println("3. Transfer");
+                System.out.println("4. Transaction History");
                 System.out.println("5. Quit");
 
                 int choosed = sc.nextInt();
