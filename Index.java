@@ -26,19 +26,19 @@ public class Index {
                 int choosed = sc.nextInt();
                 if (choosed == 1) {
 
-                    // Transaction History
+                    // Withdraw
 
                 } else if (choosed == 2) {
 
-                    // Withdraw
+                    // Deposit
 
                 } else if (choosed == 3) {
 
-                    // Deposit
+                    // Transfer
 
                 } else if (choosed == 4) {
 
-                    // Transfer
+                    // Transaction History
 
                 } else if (choosed == 5) {
                     quite = true;
